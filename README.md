@@ -192,6 +192,7 @@ Insight:
 Clear positive correlation between frequency and monetary value, reinforcing loyalty-driven revenue growth.
 
 🧩 Customer Segmentation (RFM Segments)
+
 6️. RFM Segment Bar Chart
 
 Customers are segmented based on their combined RFM scores into meaningful business categories:
