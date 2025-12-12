@@ -69,7 +69,7 @@ Final cleaned and aggregated dataset was exported as a CSV file.
 
 This dataset was then used directly in Tableau for visualization and dashboard creation.
 
-<img width="1298" height="797" alt="image" src="https://github.com/user-attachments/assets/8a1364bb-fcb8-43d1-a728-93e20de9b33d" />
+<img width="1295" height="797" alt="image" src="https://github.com/user-attachments/assets/4c461c20-d132-4a7f-9152-607439e46917" />
 
 The dashboard helps answer key business questions such as:
 
