@@ -1,4 +1,5 @@
 RFM Customer Segmentation Dashboard (Tableau)
+
 📌 Project Overview
 
 This project presents an RFM (Recency, Frequency, Monetary) Analysis Dashboard built using Tableau to analyze customer purchasing behavior and segment customers based on engagement and value.
@@ -110,6 +111,7 @@ Average number of days since the customer’s last purchase.
 Lower values indicate more recent customer engagement.
 
 📊 Distribution Analysis
+
 1️. Recency Distribution Histogram
 
 What it shows:
@@ -159,6 +161,7 @@ Insight:
 Most customers fall into mid-range spending, while a small segment contributes significantly higher revenue.
 
 🔗 Relationship Analysis
+
 4️. Recency vs Monetary Scatter Plot
 
 What it shows:
